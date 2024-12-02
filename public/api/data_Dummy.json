@@ -1,0 +1,218 @@
+{
+    "India": [
+      {
+        "product_name": "chocos",
+        "campaign_varition_name": "ChotaLadduMagic",
+        "campaign_name": "Kellogs Chocos Chota Laddu magic",
+        "state_name": "Maharastra",
+        "platform_name": {
+          "facebook": true,
+          "youtube": true
+        },
+        "start_date": "2023-10-18T21:26:00Z",
+        "end_date": "2023-12-19T21:26:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 110,
+          "projected_spend": 30
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "assest/images/thumb_1.jpg",
+        "youtubeId": "#233",
+        "viewDetailsLink": "url"
+      },
+      {
+        "product_name": "cornflakes",
+        "campaign_varition_name": "BreakfastOfChampions",
+        "campaign_name": "Kellogs Cornflakes Breakfast of Champions",
+        "state_name": "Tamil Nadu",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2024-01-01T00:00:00Z",
+        "end_date": "2024-03-31T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 20,
+          "projected_spend": 40
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#456",
+        "viewDetailsLink": "url"
+      },
+      {
+        "product_name": "frostedflakes",
+        "campaign_varition_name": "FrostedFun",
+        "campaign_name": "Kellogs Frosted Flakes Frosted Fun",
+        "state_name": "Karnataka",
+        "platform_name": {
+          "twitter": true,
+          "youtube": true
+        },
+        "start_date": "2024-04-01T00:00:00Z",
+        "end_date": "2024-06-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 25,
+          "projected_spend": 50
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#789",
+        "viewDetailsLink": "url"
+      }
+    ],
+    "France": [
+      {
+        "product_name": "Kellogg's Corn Flakes",
+        "campaign_varition_name": "Petit-DéjeunerDeChampion",
+        "campaign_name": "Kellogg's Corn Flakes: Un Petit-Déjeuner de Champion",
+        "state_name": "Île-de-France",
+        "platform_name": {
+          "facebook": true,
+          "youtube": true
+        },
+        "start_date": "2023-10-18T21:26:00Z",
+        "end_date": "2023-12-19T21:26:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 25000,
+          "projected_spend": 35000
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "assest/images/thumb_1.jpg",
+        "youtubeId": "#242",
+        "viewDetailsLink": "url"
+      },
+      {
+        "product_name": "Special K",
+        "campaign_varition_name": "GestionDuPoids",
+        "campaign_name": "Special K: Votre Partenaire pour la Gestion du Poids",
+        "state_name": "Auvergne-Rhône-Alpes",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2023-11-01T12:00:00Z",
+        "end_date": "2024-01-01T12:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 18000,
+          "projected_spend": 22000
+        },
+        "platform_type": {
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#243",
+        "viewDetailsLink": "url"
+      },
+      {
+        "product_name": "Frosted Flakes",
+        "campaign_varition_name": "ExplosionDeSucres",
+        "campaign_name": "Frosted Flakes: L'Explosion de Sucres",
+        "state_name": "Nouvelle-Aquitaine",
+        "platform_name": {
+          "facebook": true,
+          "tiktok": true
+        },
+        "start_date": "2023-11-15T15:00:00Z",
+        "end_date": "2024-01-15T15:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 22000,
+          "projected_spend": 28000
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#244",
+        "viewDetailsLink": "url"
+      }
+    ],
+    "England": [
+      {
+        "product_name": "Special K",
+        "campaign_varition_name": "WeightManagement",
+        "campaign_name": "Special K: Your Partner in Weight Management",
+        "state_name": "Manchester",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2023-11-01T12:00:00Z",
+        "end_date": "2024-01-01T12:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 18000,
+          "projected_spend": 22000
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "assest/images/thumb_1.jpg",
+        "youtubeId": "#235",
+        "viewDetailsLink": "url"
+      },
+      {
+        "product_name": "Frosted Flakes",
+        "campaign_varition_name": "SugarRush",
+        "campaign_name": "Frosted Flakes: The Ultimate Sugar Rush",
+        "state_name": "Birmingham",
+        "platform_name": {
+          "facebook": true,
+          "tiktok": true
+        },
+        "start_date": "2023-11-15T15:00:00Z",
+        "end_date": "2024-01-15T15:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 22000,
+          "projected_spend": 28000
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#236",
+        "viewDetailsLink": "url"
+      },
+      {
+        "product_name": "Rice Krispies",
+        "campaign_varition_name": "SnapCracklePop",
+        "campaign_name": "Rice Krispies: Snap, Crackle, Pop!",
+        "state_name": "Liverpool",
+        "platform_name": {
+          "instagram": true,
+          "twitter": true
+        },
+        "start_date": "2023-12-01T18:00:00Z",
+        "end_date": "2024-02-01T18:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 15000,
+          "projected_spend": 20000
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#237",
+        "viewDetailsLink": "url"
+      }
+      
+    ]
+}

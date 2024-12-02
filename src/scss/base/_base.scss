@@ -1,0 +1,65 @@
+// Base -reset
+// @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap");
+/*  Tailwaid CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*  Tailwaid CSS END */
+*,
+*::before,
+*::after {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: $medium-heading;
+    font-weight: normal;
+    font-family: $poppins, $san-serif;
+    background: $bg-black-3131;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+input,
+textarea {
+    border: none;
+    outline: none;
+    overflow: auto;
+}
+
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: transparent url('../../assets/images/arrow-down-s-line.png') scroll no-repeat 95% 50%;
+    color: $bg-black;
+    font-size: $size16;
+    text-align: left;
+}
+
+.container{
+    max-width: 1210px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+
+// This is a Normalize that makes browsers render all elements more consistently
+// and in line with modern standards.
