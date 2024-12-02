@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//markDashboard.git/static/css/main.611b10c6.css",
+    "main.js": "//markDashboard.git/static/js/main.18ef517d.js",
+    "static/js/453.ef2e66ab.chunk.js": "//markDashboard.git/static/js/453.ef2e66ab.chunk.js",
+    "static/media/bg.jpg": "//markDashboard.git/static/media/bg.0b74e09b506ff17930f3.jpg",
+    "index.html": "//markDashboard.git/index.html",
+    "main.611b10c6.css.map": "//markDashboard.git/static/css/main.611b10c6.css.map",
+    "main.18ef517d.js.map": "//markDashboard.git/static/js/main.18ef517d.js.map",
+    "453.ef2e66ab.chunk.js.map": "//markDashboard.git/static/js/453.ef2e66ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.611b10c6.css",
+    "static/js/main.18ef517d.js"
+  ]
+}

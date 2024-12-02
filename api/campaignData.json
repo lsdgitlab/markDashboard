@@ -1,0 +1,1639 @@
+{
+    "India": [
+      {       
+        "id":"1",
+ "product_name": "chocos",
+        "campaign_varition_name": "ChotaLadduMagic",
+        "campaign_name": "Kellogs Chocos Chota Laddu magic",
+        "state_name": "Maharastra",
+        "platform_name": {
+          "facebook": true,
+          "youtube": true
+        },
+        "start_date": "2023-10-18T21:26:00Z",
+        "end_date": "2023-12-19T21:26:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 110,
+          "projected_spend": 30
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "/img/thumb_3.jpg",
+        "youtubeId": "#233",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3300",
+  "Mar":"22000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"2000",
+  "Aug":"1000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"9000"
+}
+      },
+      {
+        "id":"2",
+ "product_name": "cornflakes",
+        "campaign_varition_name": "BreakfastOfChampions",
+        "campaign_name": "Kellogs Cornflakes Breakfast of Champions",
+        "state_name": "Tamil Nadu",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2024-01-01T00:00:00Z",
+        "end_date": "2024-03-31T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 20,
+          "projected_spend": 40
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#456",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"3",
+ "product_name": "frostedflakes",
+        "campaign_varition_name": "FrostedFun",
+        "campaign_name": "Kellogs Frosted Flakes Frosted Fun",
+        "state_name": "Karnataka",
+        "platform_name": {
+          "twitter": true,
+          "youtube": true
+        },
+        "start_date": "2024-04-01T00:00:00Z",
+        "end_date": "2024-06-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 25,
+          "projected_spend": 50
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#789",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"4",
+ "product_name": "specialk",
+        "campaign_varition_name": "HealthyChoice",
+        "campaign_name": "Kellogs Special K Healthy Choice",
+        "country_name": "India",
+        "state_name": "Gujarat",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2024-07-01T00:00:00Z",
+        "end_date": "2024-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 30,
+          "projected_spend": 60
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#abc",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"5",
+ "product_name": "ricekrispies",
+        "campaign_varition_name": "SnapCracklePop",
+        "campaign_name": "Kellogs Rice Krispies Snap Crackle Pop",
+        "country_name": "India",
+        "state_name": "Andhra Pradesh",
+        "platform_name": {
+          "twitter": true,
+          "youtube": true
+        },
+        "start_date": "2024-10-01T00:00:00Z",
+        "end_date": "2024-12-31T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 35,
+          "projected_spend": 70
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#def",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"6",
+ "product_name": "frootloops",
+        "campaign_varition_name": "ColorfulFun",
+        "campaign_name": "Kellogs Froot Loops Colorful Fun",
+        "country_name": "India",
+        "state_name": "West Bengal",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-01-01T00:00:00Z",
+        "end_date": "2025-03-31T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 40,
+          "projected_spend": 80
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#ghi",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"7",
+ "product_name": "applejacks",
+        "campaign_varition_name": "Applelicious",
+        "campaign_name": "Kellogs Apple Jacks Applelicious",
+        "country_name": "India",
+        "state_name": "Uttar Pradesh",
+        "platform_name": {
+          "twitter": true,
+          "youtube": true
+        },
+        "start_date": "2025-04-01T00:00:00Z",
+        "end_date": "2025-06-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 45,
+          "projected_spend": 90
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "jkl",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"8",
+ "product_name": "pop-tarts",
+        "campaign_varition_name": "ToastedDelight",
+        "campaign_name": "Kellogs Pop-Tarts Toasted Delight",
+        "country_name": "India",
+        "state_name": "Rajasthan",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 100
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "/img/thumb_3.jpg",
+        "youtubeId": "mno",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"9",
+ "product_name": "fruitloops",
+        "campaign_varition_name": "ColorfulFun",
+        "campaign_name": "Kellogs Froot Loops Colorful Fun",
+        "country_name": "India",
+        "state_name": "West Bengal",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 100
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "mno",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"10",
+ "product_name": "applejacks",
+        "campaign_varition_name": "Applelicious",
+        "campaign_name": "Kellogs Apple Jacks Applelicious",
+        "country_name": "India",
+        "state_name": "Uttar Pradesh",
+        "platform_name": {
+          "twitter": true,
+          "youtube": true
+        },
+        "start_date": "2025-04-01T00:00:00Z",
+        "end_date": "2025-06-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 45,
+          "projected_spend": 90
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "jkl",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"11",
+ "product_name": "pop-tarts",
+        "campaign_varition_name": "ToastedDelight",
+        "campaign_name": "Kellogs Pop-Tarts Toasted Delight",
+        "country_name": "India",
+        "state_name": "Rajasthan",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 100
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "mno",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"12",
+ "product_name": "frootloops",
+        "campaign_varition_name": "ColorfulFun",
+        "campaign_name": "Kellogs Froot Loops Colorful Fun",
+        "country_name": "India",
+        "state_name": "West Bengal",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 100
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "mno",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"13",
+ "product_name": "applejacks",
+        "campaign_varition_name": "Applelicious",
+        "campaign_name": "Kellogs Apple Jacks Applelicious",
+        "country_name": "India",
+        "state_name": "Uttar Pradesh",
+        "platform_name": {
+          "twitter": true,
+          "youtube": true
+        },
+        "start_date": "2025-04-01T00:00:00Z",
+        "end_date": "2025-06-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 45,
+          "projected_spend": 90
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "jkl",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"14",
+ "product_name": "pop-tarts",
+        "campaign_varition_name": "ToastedDelight",
+        "campaign_name": "Kellogs Pop-Tarts Toasted Delight",
+        "country_name": "India",
+        "state_name": "Rajasthan",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 100
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "mno",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"15",
+ "product_name": "frootloops",
+        "campaign_varition_name": "ColorfulFun",
+        "campaign_name": "Kellogs Froot Loops Colorful Fun",
+        "country_name": "India",
+        "state_name": "West Bengal",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2025-07-01T00:00:00Z",
+        "end_date": "2025-09-30T23:59:59Z",
+        "campaign_run_duration": 90,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 100
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "mno",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      }
+    ],
+    "France": [
+      {
+        "id":"16",
+ "product_name": "Kellogg's Corn Flakes",
+        "campaign_varition_name": "Petit-DéjeunerDeChampion",
+        "campaign_name": "Kellogg's Corn Flakes: Un Petit-Déjeuner de Champion",
+        "state_name": "Île-de-France",
+        "platform_name": {
+          "facebook": true,
+          "youtube": true
+        },
+        "start_date": "2023-10-18T21:26:00Z",
+        "end_date": "2023-12-19T21:26:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 115,
+          "projected_spend": 35000
+        },
+        "platform_type": {
+          "TV": true
+        },
+        "thumUrl": "/img/thumb_1.jpg",
+        "youtubeId": "#242",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"17",
+ "product_name": "Special K",
+        "campaign_varition_name": "GestionDuPoids",
+        "campaign_name": "Special K: Votre Partenaire pour la Gestion du Poids",
+        "state_name": "Auvergne-Rhône-Alpes",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2023-11-01T12:00:00Z",
+        "end_date": "2024-01-01T12:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 60
+        },
+        "platform_type": {
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#243",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"18",
+ "product_name": "Frosted Flakes",
+        "campaign_varition_name": "ExplosionDeSucres",
+        "campaign_name": "Frosted Flakes: L'Explosion de Sucres",
+        "state_name": "Nouvelle-Aquitaine",
+        "platform_name": {
+          "facebook": true,
+          "tiktok": true
+        },
+        "start_date": "2023-11-15T15:00:00Z",
+        "end_date": "2024-01-15T15:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 34,
+          "projected_spend": 55
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#244",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"19",
+ "product_name": "Fruit Loops",
+        "campaign_varition_name": "PlaisirColoré",
+        "campaign_name": "Fruit Loops: Du Plaisir Coloré pour Toute la Famille",
+       
+        "state_name": "Pays de la Loire",
+        "platform_name": {
+          "facebook": true,
+          "youtube": true
+        },
+        "start_date": "2024-01-15T03:00:00Z",
+        "end_date": "2024-03-15T03:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 34,
+          "projected_spend": 45
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#248",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"20",
+ "product_name": "Apple Jacks",
+        "campaign_varition_name": "PommeDélicieuse",
+        "campaign_name": "Apple Jacks: Une Pomme Délicieuse",
+       
+        "state_name": "Occitanie",
+        "platform_name": {
+          "instagram": true,
+          "tiktok": true
+        },
+        "start_date": "2024-01-01T00:00:00Z",
+        "end_date": "2024-03-01T00:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend":80,
+          "projected_spend": 90
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#247",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"21",
+ "product_name": "Raisin Bran",
+        "campaign_varition_name": "DébutSain",
+        "campaign_name": "Raisin Bran: Un Début Sain pour Votre Journée",
+       
+        "state_name": "Hauts-de-France",
+        "platform_name": {
+          "facebook": true,
+          "linkedin": true
+        },
+        "start_date": "2023-12-15T21:00:00Z",
+        "end_date": "2024-02-15T21:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 60,
+          "projected_spend": 70
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#246",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"22",
+ "product_name": "Rice Krispies",
+        "campaign_varition_name": "Croustillants",
+        "campaign_name": "Rice Krispies: Croustillants et Délicieux",
+       
+        "state_name": "Provence-Alpes-Côte d'Azur",
+        "platform_name": {
+          "instagram": true,
+          "twitter": true
+        },
+        "start_date": "2023-12-01T18:00:00Z",
+        "end_date": "2024-02-01T18:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 65,
+          "projected_spend": 75
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#245",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"23",
+ "product_name": "Frosted Flakes",
+        "campaign_varition_name": "ExplosionDeSucres",
+        "campaign_name": "Frosted Flakes: L'Explosion de Sucres",
+       
+        "state_name": "Nouvelle-Aquitaine",
+        "platform_name": {
+          "facebook": true,
+          "tiktok": true
+        },
+        "start_date": "2023-11-15T15:00:00Z",
+        "end_date": "2024-01-15T15:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 55,
+          "projected_spend": 60
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#244",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      }
+    ],
+    "England": [
+      {
+        "id":"24",
+ "product_name": "Special K",
+        "campaign_varition_name": "WeightManagement",
+        "campaign_name": "Your Partner in Weight Management",
+        "state_name": "Manchester",
+        "platform_name": {
+          "facebook": true,
+          "instagram": true
+        },
+        "start_date": "2023-11-01T12:00:00Z",
+        "end_date": "2024-01-01T12:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 120,
+          "projected_spend": 130
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "/img/thumb_2.jpg",
+        "youtubeId": "#235",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"25",
+ "product_name": "Frosted Flakes",
+        "campaign_varition_name": "SugarRush",
+        "campaign_name": "Frosted Flakes: The Ultimate Sugar Rush",
+        "state_name": "Birmingham",
+        "platform_name": {
+          "facebook": true,
+          "tiktok": true
+        },
+        "start_date": "2023-11-15T15:00:00Z",
+        "end_date": "2024-01-15T15:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 13,
+          "projected_spend": 15
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#236",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"26",
+ "product_name": "Rice Krispies",
+        "campaign_varition_name": "SnapCracklePop",
+        "campaign_name": "Rice Krispies: Snap, Crackle, Pop!",
+        "state_name": "Liverpool",
+        "platform_name": {
+          "instagram": true,
+          "twitter": true
+        },
+        "start_date": "2023-12-01T18:00:00Z",
+        "end_date": "2024-02-01T18:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 60,
+          "projected_spend": 80
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#237",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"27",
+ "product_name": "Pops",
+        "campaign_varition_name": "SweetSurprise",
+        "campaign_name": "Pops: A Sweet Surprise in Every Bowl",
+       
+        "state_name": "Bristol",
+        "platform_name": {
+          "instagram": true,
+          "tiktok": true
+        },
+        "start_date": "2024-02-01T06:00:00Z",
+        "end_date": "2024-04-01T06:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 50,
+          "projected_spend": 55
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#241",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"28",
+ "product_name": "Fruit Loops",
+        "campaign_varition_name": "ColorfulFun",
+        "campaign_name": "Fruit Loops: Colorful Fun for the Whole Family",
+       
+        "state_name": "Newcastle",
+        "platform_name": {
+          "facebook": true,
+          "youtube": true
+        },
+        "start_date": "2024-01-15T03:00:00Z",
+        "end_date": "2024-03-15T03:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 40,
+          "projected_spend": 45
+        },
+        "platform_type": {
+          "TV": true
+        },
+        "thumUrl": "url",
+        "youtubeId": "#240",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"29",
+ "product_name": "Apple Jacks",
+        "campaign_varition_name": "Applelicious",
+        "campaign_name": "Apple-licious Goodness",
+       
+        "state_name": "Glasgow",
+        "platform_name": {
+          "instagram": true,
+          "tiktok": true
+        },
+        "start_date": "2024-01-01T00:00:00Z",
+        "end_date": "2024-03-01T00:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 80,
+          "projected_spend": 90
+        },
+        "platform_type": {
+          "Digital": true,
+          "TV": true
+        },
+        "thumUrl": "/img/thumb_2.jpg",
+        
+        "youtubeId": "#239",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      },
+      {
+        "id":"30",
+ "product_name": "Raisin Bran",
+        "campaign_varition_name": "HealthyStart",
+        "campaign_name": "A Healthy Start to Your Day",
+       
+        "state_name": "Leeds",
+        "platform_name": {
+          "facebook": true,
+          "linkedin": true
+        },
+        "start_date": "2023-12-15T21:00:00Z",
+        "end_date": "2024-02-15T21:00:00Z",
+        "campaign_run_duration": 60,
+        "spend": {
+          "total_spend": 90,
+          "projected_spend": 95
+        },
+        "platform_type": {
+          "Digital": true
+        },
+        "thumUrl": "/img/thumb_4.jpg",
+        "youtubeId": "#238",
+        "viewDetailsLink": "url",
+"campaignObjective":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo enim, tempus sit amet lacus ut, sagittis consectetur odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus pretium, diam ut volutpat faucibus, nulla libero feugiat",
+"projected_monthly_spend":{
+  "Jan":"5000",
+  "Feb":"6000",
+  "Mar":"7000",
+  "Apr":"8000",
+  "May":"9000",
+  "Jun":"5500",
+  "Jul":"6600",
+  "Aug":"7700",
+  "Sep":"8800",
+  "Oct":"9900",
+  "Nov":"8700",
+  "Dec":"9900"
+},
+"monthly_actual_spend":{
+  "Jan":"3000",
+  "Feb":"3000",
+  "Mar":"3000",
+  "Apr":"3000",
+  "May":"3000",
+  "Jun":"3000",
+  "Jul":"3000",
+  "Aug":"3000",
+  "Sep":"3000",
+  "Oct":"3000",
+  "Nov":"3000",
+  "Dec":"3000"
+}
+      }
+      
+    ]
+  }
+  
+
+ 
