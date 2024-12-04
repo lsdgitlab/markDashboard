@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//markDashboard.git/static/css/main.611b10c6.css",
-    "main.js": "//markDashboard.git/static/js/main.76085038.js",
-    "static/js/453.ef2e66ab.chunk.js": "//markDashboard.git/static/js/453.ef2e66ab.chunk.js",
-    "static/media/bg.jpg": "//markDashboard.git/static/media/bg.0b74e09b506ff17930f3.jpg",
-    "index.html": "//markDashboard.git/index.html",
-    "main.611b10c6.css.map": "//markDashboard.git/static/css/main.611b10c6.css.map",
-    "main.76085038.js.map": "//markDashboard.git/static/js/main.76085038.js.map",
-    "453.ef2e66ab.chunk.js.map": "//markDashboard.git/static/js/453.ef2e66ab.chunk.js.map"
+    "main.css": "./static/css/main.a771eb47.css",
+    "main.js": "./static/js/main.3d72ea0f.js",
+    "static/js/453.ef2e66ab.chunk.js": "./static/js/453.ef2e66ab.chunk.js",
+    "static/media/bg.jpg": "./static/media/bg.0b74e09b506ff17930f3.jpg",
+    "index.html": "./index.html",
+    "main.a771eb47.css.map": "./static/css/main.a771eb47.css.map",
+    "main.3d72ea0f.js.map": "./static/js/main.3d72ea0f.js.map",
+    "453.ef2e66ab.chunk.js.map": "./static/js/453.ef2e66ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.611b10c6.css",
-    "static/js/main.76085038.js"
+    "static/css/main.a771eb47.css",
+    "static/js/main.3d72ea0f.js"
   ]
 }
