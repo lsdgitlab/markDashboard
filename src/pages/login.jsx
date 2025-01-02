@@ -22,6 +22,9 @@ export default function Login(){
         setFormError(validate(formValues))
         setisSubmit(true)
     }
+    const handelChangeRegister = () =>{
+      navigate("/registeruser")
+    }
     useEffect(() => {
       if (Object.keys(formError).length === 0 && isSubmit) {
           // if (formValues.username === "nishant@gmail.com" && formValues.password === "n1") {
@@ -103,7 +106,7 @@ export default function Login(){
             <div className="register-link">
               <p>
                 Don't have an account?
-                <br /> <a href="https://www.google.com/">Register</a>
+                <br /> <a onClick={handelChangeRegister}>Register</a>
               </p>
             </div>
           </form>
